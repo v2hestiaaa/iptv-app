@@ -14,6 +14,8 @@
 - 🎞 **Movie Info** – Detailed movie descriptions, ratings, and cast information.
 - 📖 **Series Info** – Episode guides, descriptions, and ratings for your favorite series.
 - ▶️ **Built-in Player** – High-quality video playback for the best viewing experience.
+- 🎨 **Custom UI/UX** – Tailor-made interface designed specifically for each customer.
+- 🛠 **Brand Personalization** – Custom themes, logos, and color schemes to match your brand identity.
 
 ---
 
@@ -49,3 +51,4 @@ This software is a commercial product available under specific licenses. For pur
 This IPTV app is a **paid** product. Unauthorized distribution or usage is prohibited. For detailed licensing information, please contact us.
 
 ---
+
