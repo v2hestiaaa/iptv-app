@@ -17,6 +17,7 @@
 ![Series Section](series_section.png)
 ![Live Section](live_section.png)
 ![Movies Info](movies_info.png)
+![Series Info](series_info.png)
 ![Player](player.png)
 
 ## Purchase:
