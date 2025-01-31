@@ -13,14 +13,14 @@
 - **Player**: A built-in video player for seamless streaming with high-quality playback.
 
 ## Screenshots:
-![Login Screen](login_screen.png)
-![Home Screen](home_screen.png)
-![Movies Section](movies_section.png)
-![Series Section](series_section.png)
-![Live Section](live_section.png)
-![Movies Info](movies_info.png)
-![Movies Info](series_info.png)
-![Player](player.png)
+![Login Screen](login_screen.png | width=500 )
+![Home Screen](home_screen.png | width=500 )
+![Movies Section](movies_section.png| width=500 )
+![Series Section](series_section.png| width=500 )
+![Live Section](live_section.png| width=500 )
+![Movies Info](movies_info.png| width=500)
+![Movies Info](series_info.png| width=500 )
+![Player](player.png| width=500 )
 
 
 ## Purchase:
