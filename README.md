@@ -1,31 +1,51 @@
-# IPTV App
+# 📺 IPTV App
 
-**This software is a paid IPTV app developed for Android devices. It offers high-quality, seamless streaming and provides users with easy access to a wide range of content, making home entertainment more enjoyable.**
+**Premium IPTV experience for Android devices. Enjoy seamless, high-quality streaming with access to a vast collection of content.**
 
-## Features:
-- **Login**: A login screen that allows users to sign in to their accounts. Provides access to personal content.
-- **Home**: Explore and access various content available on the platform.
-- **Movies**: A section dedicated to movies across different genres for easy browsing.
-- **Series**: Browse and explore different series categories.
-- **Live**: Watch live streaming content in real-time.
-- **Movies Info**: Get detailed information about movies, including synopses, ratings, cast, and more.
-- **Series Info**: View detailed information about series, including descriptions, episodes, and more.
-- **Player**: A built-in video player for seamless streaming with high-quality playback.
+---
 
-## Screenshots:
-![Login Screen](login_screen.png)
-![Home Screen](home_screen.png)
-![Movies Section](movies_section.png)
-![Series Section](series_section.png)
-![Live Section](live_section.png)
-![Movies Info](movies_info.png)
-![Series Info](series_info.png)
-![Player](player.png)
+## ✨ Features
 
-## Purchase:
-This software is a commercial product and is available for sale under specific licenses. For purchasing and licensing information, please contact us.
+- 🔐 **Login** – Securely sign in to access your personalized content.
+- 🏠 **Home** – Discover and explore a variety of entertainment options.
+- 🎬 **Movies** – Browse an extensive movie library sorted by genre.
+- 📺 **Series** – Explore and watch TV series effortlessly.
+- 📡 **Live TV** – Watch real-time live streaming channels.
+- 🎞 **Movie Info** – Detailed movie descriptions, ratings, and cast information.
+- 📖 **Series Info** – Episode guides, descriptions, and ratings for your favorite series.
+- ▶️ **Built-in Player** – High-quality video playback for the best viewing experience.
 
-**Contact:** v2hestia@gmail.com
+---
 
-## License:
-This software is a commercial product for sale. For licensing information, please contact us.
+## 🖼 Screenshots
+
+<p align="center">
+  <img src="login_screen.png" width="250"> 
+  <img src="home_screen.png" width="250"> 
+  <img src="movies_section.png" width="250"> 
+</p>
+<p align="center">
+  <img src="series_section.png" width="250"> 
+  <img src="live_section.png" width="250"> 
+  <img src="movies_info.png" width="250"> 
+</p>
+<p align="center">
+  <img src="series_info.png" width="250"> 
+  <img src="player.png" width="250"> 
+</p>
+
+---
+
+## 💳 Purchase
+
+This software is a commercial product available under specific licenses. For purchasing and licensing information, please contact us.
+
+📩 **Contact:** [v2hestia@gmail.com](mailto:v2hestia@gmail.com)
+
+---
+
+## 📜 License
+
+This IPTV app is a **paid** product. Unauthorized distribution or usage is prohibited. For detailed licensing information, please contact us.
+
+---
